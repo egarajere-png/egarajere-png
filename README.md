@@ -40,6 +40,6 @@ I'm a Software Engineer passionate about building scalable web, mobile, and ente
 
 * 🌐 Portfolio: *(Coming Soon)*
 * 💼 LinkedIn: [www.linkedin.com/in/bahatiegarajere](http://www.linkedin.com/in/bahatiegarajere)
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+* 📧 Email: egarajere@gmail.com(egarajere@gmail.com)
 
 Thanks for stopping by! Feel free to explore my repositories, and if you'd like to collaborate on a project, don't hesitate to reach out.
